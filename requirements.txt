@@ -1,0 +1,6 @@
+# Tube Insights currently uses only the Python standard library.
+# Optional future upgrades:
+# scikit-learn
+# pandas
+# faster-whisper
+# opencv-python
